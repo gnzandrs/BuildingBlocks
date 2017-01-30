@@ -5,12 +5,15 @@ This is the app built in the [Watch Us Build episode](https://www.codeschool.com
 ## You need
 
 Node
+
 Redis
 
 ## Running
 
 Run redis
+
 Run `npm install`
+
 Run `npm start`
 
 ## Tests
